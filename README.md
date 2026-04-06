@@ -1,8 +1,10 @@
 # Weather-Data-Insights
 Project Description 🌍
+
 An end-to-end Power BI solution that tracks live weather and air quality using WeatherAPI.com. It features a dynamic dashboard with real-time health alerts, atmospheric trends, and multi-city monitoring. 📡☁️
 
 Project Overview 🚀
+
 This project turns live environmental data into an easy-to-read dashboard. By connecting Power BI to a weather API, I created a tool that tracks temperature, wind speed, and air quality in real-time. 🌡️ It is designed to help users understand local conditions and health risks at a glance, using cities like Ajmer and Bengaluru as examples. 🏙️
 
 Prerequisites 🔑
