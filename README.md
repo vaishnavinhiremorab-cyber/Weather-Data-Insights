@@ -28,6 +28,6 @@ Project Outcome ✨
 This dashboard provides a powerful, live view of our environment. It demonstrates how to handle real-time APIs, transform complex data, and use professional design principles to create a tool that is both useful and easy for anyone to understand. 🏆
 
 ### 🌦️ Weather Analysis Dashboard
-![Real-time Weather Insights](weather_dashboard.png)
+![Real-time Weather Insights](https://github.com/vaishnavinhiremorab-cyber/Weather-Data-Insights/blob/main/SnapShot_of_the_Dashboard.png)
 
  
